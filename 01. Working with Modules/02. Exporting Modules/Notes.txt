@@ -1,0 +1,10 @@
+You can export functions and values from a module by either using module.exports:
+module.exports = { value1, function1 }
+
+
+or by using exports:
+exports.value1 = value1
+exports.function1 = function1
+
+
+
